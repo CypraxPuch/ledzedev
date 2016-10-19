@@ -1,0 +1,15 @@
+{
+  "pais": "México",
+  "poblacion": 120000000,
+  "idiomasOficiales": [
+    {
+      "idioma": "Español"
+    },
+    {
+      "idioma": "Maya"
+    },
+    {
+      "idioma": "Espanglish"
+    }
+  ]
+}
